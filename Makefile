@@ -1,5 +1,5 @@
 #
-# Makefile to build Internet Drafts from markdown using mmarc and
+# Makefile to build Internet Drafts from markdown using mmark and
 # relying on the docker image "paulej/rfctools".
 #
 
